@@ -1,0 +1,8 @@
+P001,Move Free,200,Schiff (USA),658.000
+P002,Glucosamine,150,Schiff (USA),490.000
+P003,Glucosamine,375,Kirkland (USA),583.000
+P004,Fish Oil,400,Kirkland (USA),389.000
+P005,Glucosamine,240,Puritan's Pride (USA),494.000
+P006,Glucosamine,180,Blackmores (Australia),539.000
+P007,Glucosamine,360,Orihiro (Japan),299.000
+P008,Glucosamine & Fish Oil,90,Blackmores (Australia),430.000
