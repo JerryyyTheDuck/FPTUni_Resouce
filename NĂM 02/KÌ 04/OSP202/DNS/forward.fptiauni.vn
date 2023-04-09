@@ -1,0 +1,13 @@
+$TTL 86400
+@   IN  SOA     ns1.fptiauni.vn. root.fptiauni.vn. (
+        2011071001  ;Serial
+        3600        ;Refresh
+        1800        ;Retry
+        604800      ;Expire
+        86400       ;Minimum TTL
+)
+@               IN  NS          ns1.fptiauni.vn.
+@               IN  A           192.168.171.100
+@               IN  A           192.168.171.150
+ns1             IN  A           192.168.171.100
+fpt-win010-01   IN  A           192.168.171.150
