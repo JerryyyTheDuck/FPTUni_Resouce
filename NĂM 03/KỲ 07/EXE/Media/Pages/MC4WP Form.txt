@@ -1,0 +1,4 @@
+<input type="email" id="email" name="EMAIL" placeholder="Your email address" required />
+
+
+<input type="submit" class="form-btn" value="Sign up" />

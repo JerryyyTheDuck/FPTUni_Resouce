@@ -1,0 +1,74 @@
+form {
+       padding: 10px;
+    }
+    :placeholder {
+        color: rgba(10, 8, 59, 0.5);
+    }
+    label {
+        color: #0A083B;
+        font-family: Inter;
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 600;
+    }
+    input {
+        padding: 20px 25px;
+        margin: 10px 0 0px;
+        border: 2px solid #E8E7ED;
+        border-radius: 6px;
+    }
+    input:focus, textarea:focus {
+        outline: 0;
+    }
+    input[type="text"],input[type="email"] {
+         width: 100%;
+        font-family: Inter;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        color: rgba(10, 8, 59, 0.50);
+    }
+    textarea {
+        width: 100%;
+        height: 135px;
+        padding: 20px 25px;
+        margin: 10px 0 0px;
+        border: 2px solid #E8E7ED;
+        border-radius: 6px;
+        font-family: Inter;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .form-button {
+        font-family: Inter;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        padding: 16px 34px;
+        color: #fff;
+        background-color: #1950D1;
+        border-radius: 33px;
+        cursor: pointer;
+        float: right;
+        margin-top: 40px;
+    }
+    .form-button:hover {
+        background-color: #175CFF;
+        transition: .6s;
+    }
+    @media (max-width:768px) {
+        input {
+        padding: 15px 15px;
+    }
+    input[type="text"],input[type="email"] {
+        font-size: 14px;
+        line-height: 19px;
+    }
+     textarea {
+        font-size: 14px;
+         padding: 15px 15px;
+         height: 100px;
+    }
+    }
+
